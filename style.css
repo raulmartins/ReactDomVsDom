@@ -1,0 +1,20 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.demo {
+  display: flex;
+  flex-direction: column;
+  border: solid 1px #ddd;
+  margin: 1em;
+  padding: 1em;
+  border-radius: 8px;
+}
+input {
+  margin: 4px 0;
+  border-radius: 5px;
+  border: solid 1px #444;
+}
